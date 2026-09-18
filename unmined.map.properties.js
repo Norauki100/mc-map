@@ -8,7 +8,7 @@ var UnminedMapProperties = {
     minRegionZ: -6,
     maxRegionX: 20,
     maxRegionZ: 9,
-    worldName: "神のワールド シーズン2開幕 2026/5/11",
+    worldName: "神のワールド シーズン2 (インポート完了)",
     background: "",
     markers: new Array(),
     enableGrid: true,
